@@ -1,2 +1,2 @@
-# lineartimeinvariant
-a system completely characterized by its impulse response
+# MIDIcontrolledVoiceSynth
+real-time change of voice to the (multiple )pitches specified by MIDI keyboard
